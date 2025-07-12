@@ -3,5 +3,5 @@
 3. belaar JS
 4. belaar PHP
 5. belajar Framework
-6. belaar react
-7. belaar Git
+6. belajar react
+
