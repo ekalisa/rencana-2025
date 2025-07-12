@@ -1,3 +1,7 @@
 1. belajar HTML sampe mahir
 2. belaar css sampe mahir
 3. belaar JS
+4. belaar PHP
+5. belajar Framework
+6. belaar react
+7. belaar Git
